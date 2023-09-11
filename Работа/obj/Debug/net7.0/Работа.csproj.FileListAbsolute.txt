@@ -1,0 +1,15 @@
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\bin\Debug\net7.0\Работа.exe
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\bin\Debug\net7.0\Работа.deps.json
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\bin\Debug\net7.0\Работа.runtimeconfig.json
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\bin\Debug\net7.0\Работа.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\bin\Debug\net7.0\Работа.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.csproj.AssemblyReference.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.AssemblyInfoInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.AssemblyInfo.cs
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.csproj.CoreCompileInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\refint\Работа.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\Работа.genruntimeconfig.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Итоговая1четверть\Работа\obj\Debug\net7.0\ref\Работа.dll
